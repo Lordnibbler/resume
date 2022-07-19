@@ -10,7 +10,7 @@ DEPENDENCIES
   rack (~> 2.2)
 
 RUBY VERSION
-   ruby 2.7.1p83
+   ruby 3.1.2p20
 
 BUNDLED WITH
    2.1.4
